@@ -12,3 +12,6 @@ them the same. Very lazily, I just normalized all probabilities across each leve
 there's a better way. Community is invited to improve!
 
 Check writeup <a href="http://amitkohli.com/?p=246"> here </a>
+  
+  
+  https://www.hooktheory.com/api/trends/docs#nodes
